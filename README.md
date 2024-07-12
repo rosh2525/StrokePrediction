@@ -1,1 +1,1 @@
-This is my first Machine Learning project, where I made to understand what goes behind the scenes of machine learning. I trained the model myself by doing Gradient Descent algorithm to find values of parameters and choosing the learning rate (no use of SKLearn or other libraries). And used SKLearn for getting the accuracy of the dataset which turned out to be 95%. Dataset is taken from Kaggle and Big thanks to andrew ng's course. 
+
